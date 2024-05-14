@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "stadium": "M Chinnaswamy Stadium",
+    "team1": "Royal Challengers Bangalore"
+  },
+  "winning_times": 18
+},
+{
+  "_id": {
+    "stadium": "Feroz Shah Kotla",
+    "team1": "Delhi Daredevils"
+  },
+  "winning_times": 17
+},
+{
+  "_id": {
+    "stadium": "Wankhede Stadium",
+    "team1": "Mumbai Indians"
+  },
+  "winning_times": 16
+},
+{
+  "_id": {
+    "stadium": "MA Chidambaram Stadium, Chepauk",
+    "team1": "Chennai Super Kings"
+  },
+  "winning_times": 14
+},
+{
+  "_id": {
+    "stadium": "Eden Gardens",
+    "team1": "Kolkata Knight Riders"
+  },
+  "winning_times": 14
+},
+{
+  "_id": {
+    "stadium": "Rajiv Gandhi International Stadium, Uppal",
+    "team1": "Sunrisers Hyderabad"
+  },
+  "winning_times": 13
+},
+{
+  "_id": {
+    "stadium": "Punjab Cricket Association Stadium, Mohali",
+    "team1": "Kings XI Punjab"
+  },
+  "winning_times": 11
+},
+{
+  "_id": {
+    "stadium": "Sawai Mansingh Stadium",
+    "team1": "Rajasthan Royals"
+  },
+  "winning_times": 10
+},
+{
+  "_id": {
+    "stadium": "Rajiv Gandhi International Stadium, Uppal",
+    "team1": "Deccan Chargers"
+  },
+  "winning_times": 7
+},
+{
+  "_id": {
+    "stadium": "Subrata Roy Sahara Stadium",
+    "team1": "Pune Warriors"
+  },
+  "winning_times": 6
+},
+{
+  "_id": {
+    "stadium": "Himachal Pradesh Cricket Association Stadium",
+    "team1": "Kings XI Punjab"
+  },
+  "winning_times": 6
+},
+{
+  "_id": {
+    "stadium": "Sardar Patel Stadium, Motera",
+    "team1": "Rajasthan Royals"
+  },
+  "winning_times": 6
+},
+{
+  "_id": {
+    "stadium": "Dr DY Patil Sports Academy",
+    "team1": "Mumbai Indians"
+  },
+  "winning_times": 5
+},
+{
+  "_id": {
+    "stadium": "Brabourne Stadium",
+    "team1": "Mumbai Indians"
+  },
+  "winning_times": 5
+},
+{
+  "_id": {
+    "stadium": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "team1": "Kings XI Punjab"
+  },
+  "winning_times": 5
+}]

@@ -1,0 +1,428 @@
+[{
+  "_id": "B Kumar",
+  "purple": 13
+},
+{
+  "_id": "YS Chahal",
+  "purple": 11
+},
+{
+  "_id": "UT Yadav",
+  "purple": 10
+},
+{
+  "_id": "CR Woakes",
+  "purple": 10
+},
+{
+  "_id": "PJ Cummins",
+  "purple": 9
+},
+{
+  "_id": "SN Thakur",
+  "purple": 9
+},
+{
+  "_id": "MM Sharma",
+  "purple": 9
+},
+{
+  "_id": "A Mishra",
+  "purple": 9
+},
+{
+  "_id": "Z Khan",
+  "purple": 8
+},
+{
+  "_id": "JJ Bumrah",
+  "purple": 8
+},
+{
+  "_id": "P Negi",
+  "purple": 8
+},
+{
+  "_id": "JP Faulkner",
+  "purple": 8
+},
+{
+  "_id": "Sandeep Sharma",
+  "purple": 8
+},
+{
+  "_id": "S Kaul",
+  "purple": 8
+},
+{
+  "_id": "JD Unadkat",
+  "purple": 8
+},
+{
+  "_id": "CH Morris",
+  "purple": 8
+},
+{
+  "_id": "NM Coulter-Nile",
+  "purple": 8
+},
+{
+  "_id": "A Nehra",
+  "purple": 8
+},
+{
+  "_id": "MJ McClenaghan",
+  "purple": 8
+},
+{
+  "_id": "Basil Thampi",
+  "purple": 8
+},
+{
+  "_id": "AJ Tye",
+  "purple": 7
+},
+{
+  "_id": "DT Christian",
+  "purple": 7
+},
+{
+  "_id": "Imran Tahir",
+  "purple": 7
+},
+{
+  "_id": "KV Sharma",
+  "purple": 7
+},
+{
+  "_id": "Kuldeep Yadav",
+  "purple": 7
+},
+{
+  "_id": "BA Stokes",
+  "purple": 7
+},
+{
+  "_id": "Mohammed Siraj",
+  "purple": 6
+},
+{
+  "_id": "KH Pandya",
+  "purple": 6
+},
+{
+  "_id": "MG Johnson",
+  "purple": 6
+},
+{
+  "_id": "Rashid Khan",
+  "purple": 6
+},
+{
+  "_id": "AR Patel",
+  "purple": 6
+},
+{
+  "_id": "A Zampa",
+  "purple": 6
+},
+{
+  "_id": "P Kumar",
+  "purple": 6
+},
+{
+  "_id": "S Badree",
+  "purple": 6
+},
+{
+  "_id": "Mohammed Shami",
+  "purple": 6
+},
+{
+  "_id": "LH Ferguson",
+  "purple": 6
+},
+{
+  "_id": "TA Boult",
+  "purple": 6
+},
+{
+  "_id": "SL Malinga",
+  "purple": 6
+},
+{
+  "_id": "K Rabada",
+  "purple": 5
+},
+{
+  "_id": "STR Binny",
+  "purple": 5
+},
+{
+  "_id": "VR Aaron",
+  "purple": 5
+},
+{
+  "_id": "SP Narine",
+  "purple": 5
+},
+{
+  "_id": "PJ Sangwan",
+  "purple": 5
+},
+{
+  "_id": "Washington Sundar",
+  "purple": 5
+},
+{
+  "_id": "C de Grandhomme",
+  "purple": 4
+},
+{
+  "_id": "Harbhajan Singh",
+  "purple": 4
+},
+{
+  "_id": "A Choudhary",
+  "purple": 4
+},
+{
+  "_id": "HH Pandya",
+  "purple": 4
+},
+{
+  "_id": "TM Head",
+  "purple": 4
+},
+{
+  "_id": "S Aravind",
+  "purple": 4
+},
+{
+  "_id": "Ankit Soni",
+  "purple": 4
+},
+{
+  "_id": "TG Southee",
+  "purple": 4
+},
+{
+  "_id": "R Tewatia",
+  "purple": 4
+},
+{
+  "_id": "AF Milne",
+  "purple": 4
+},
+{
+  "_id": "Bipul Sharma",
+  "purple": 4
+},
+{
+  "_id": "CJ Anderson",
+  "purple": 4
+},
+{
+  "_id": "R Vinay Kumar",
+  "purple": 3
+},
+{
+  "_id": "RA Jadeja",
+  "purple": 3
+},
+{
+  "_id": "RD Chahar",
+  "purple": 3
+},
+{
+  "_id": "DS Kulkarni",
+  "purple": 3
+},
+{
+  "_id": "BCJ Cutting",
+  "purple": 3
+},
+{
+  "_id": "DJ Hooda",
+  "purple": 3
+},
+{
+  "_id": "MC Henriques",
+  "purple": 3
+},
+{
+  "_id": "AS Rajpoot",
+  "purple": 3
+},
+{
+  "_id": "SR Watson",
+  "purple": 3
+},
+{
+  "_id": "KC Cariappa",
+  "purple": 3
+},
+{
+  "_id": "TS Mills",
+  "purple": 3
+},
+{
+  "_id": "Yuvraj Singh",
+  "purple": 3
+},
+{
+  "_id": "AB Dinda",
+  "purple": 3
+},
+{
+  "_id": "GJ Maxwell",
+  "purple": 3
+},
+{
+  "_id": "MP Stoinis",
+  "purple": 3
+},
+{
+  "_id": "S Nadeem",
+  "purple": 3
+},
+{
+  "_id": "T Natarajan",
+  "purple": 3
+},
+{
+  "_id": "MM Patel",
+  "purple": 2
+},
+{
+  "_id": "Iqbal Abdulla",
+  "purple": 2
+},
+{
+  "_id": "MJ Henry",
+  "purple": 2
+},
+{
+  "_id": "SK Raina",
+  "purple": 2
+},
+{
+  "_id": "IK Pathan",
+  "purple": 2
+},
+{
+  "_id": "YK Pathan",
+  "purple": 2
+},
+{
+  "_id": "DL Chahar",
+  "purple": 2
+},
+{
+  "_id": "NB Singh",
+  "purple": 2
+},
+{
+  "_id": "Avesh Khan",
+  "purple": 2
+},
+{
+  "_id": "DR Smith",
+  "purple": 2
+},
+{
+  "_id": "PP Chawla",
+  "purple": 2
+},
+{
+  "_id": "CR Brathwaite",
+  "purple": 2
+},
+{
+  "_id": "CJ Jordan",
+  "purple": 2
+},
+{
+  "_id": "R Bhatia",
+  "purple": 2
+},
+{
+  "_id": "HV Patel",
+  "purple": 2
+},
+{
+  "_id": "B Stanlake",
+  "purple": 2
+},
+{
+  "_id": "Mohammad Nabi",
+  "purple": 1
+},
+{
+  "_id": "MN Samuels",
+  "purple": 1
+},
+{
+  "_id": "Ankit Sharma",
+  "purple": 1
+},
+{
+  "_id": "S Kaushik",
+  "purple": 1
+},
+{
+  "_id": "Tejas Baroka",
+  "purple": 1
+},
+{
+  "_id": "Shakib Al Hasan",
+  "purple": 1
+},
+{
+  "_id": "SB Jakati",
+  "purple": 1
+},
+{
+  "_id": "Swapnil Singh",
+  "purple": 1
+},
+{
+  "_id": "Anureet Singh",
+  "purple": 1
+},
+{
+  "_id": "Mustafizur Rahman",
+  "purple": 1
+},
+{
+  "_id": "SS Agarwal",
+  "purple": 1
+},
+{
+  "_id": "KA Pollard",
+  "purple": 1
+},
+{
+  "_id": "MS Gony",
+  "purple": 1
+},
+{
+  "_id": "BB Sran",
+  "purple": 1
+},
+{
+  "_id": "RA Tripathi",
+  "purple": 1
+},
+{
+  "_id": "AD Mathews",
+  "purple": 1
+},
+{
+  "_id": "I Sharma",
+  "purple": 1
+},
+{
+  "_id": "J Yadav",
+  "purple": 1
+}]

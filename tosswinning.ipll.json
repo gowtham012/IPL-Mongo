@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "winner": "Chennai Super Kings",
+    "toss_decision": "bat"
+  },
+  "winning": 29
+},
+{
+  "_id": {
+    "winner": "Mumbai Indians",
+    "toss_decision": "field"
+  },
+  "winning": 4
+},
+{
+  "_id": {
+    "winner": "Kolkata Knight Riders",
+    "toss_decision": "field"
+  },
+  "winning": 2
+},
+{
+  "_id": {
+    "winner": "Deccan Chargers",
+    "toss_decision": "field"
+  },
+  "winning": 2
+},
+{
+  "_id": {
+    "winner": "Kings XI Punjab",
+    "toss_decision": "field"
+  },
+  "winning": 2
+},
+{
+  "_id": {
+    "winner": "Rajasthan Royals",
+    "toss_decision": "field"
+  },
+  "winning": 2
+},
+{
+  "_id": {
+    "winner": "Royal Challengers Bangalore",
+    "toss_decision": "field"
+  },
+  "winning": 2
+},
+{
+  "_id": {
+    "winner": "Sunrisers Hyderabad",
+    "toss_decision": "field"
+  },
+  "winning": 1
+},
+{
+  "_id": {
+    "winner": "Kochi Tuskers Kerala",
+    "toss_decision": "field"
+  },
+  "winning": 1
+},
+{
+  "_id": {
+    "winner": "Delhi Daredevils",
+    "toss_decision": "field"
+  },
+  "winning": 1
+}]
